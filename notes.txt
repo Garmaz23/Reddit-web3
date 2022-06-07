@@ -1,8 +1,0 @@
-https://www.youtube.com/watch?v=MI_Se26Sfmo&list=WL&index=1&t=349s => 50:00
-
-Contract address: 0x4A7C75d93d03b9b774C2F60862b88a84f03b35d6
-
-Errors:
-Linja 14 u App.js pekida aplikaciju, to pogledat
-
- 
